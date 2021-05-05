@@ -32,6 +32,7 @@
       <a href="https://mobirise.site/g" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a>
       <p style="flex: 0 0 auto; margin: 0; padding-right: 1rem;"><a href="https://mobirise.site" style="color: #aaa;">Mobirise</a> html site maker</p>
     </section>
+    <a id="btnFly" class="btn btn-secondary display-4" href="https://wa.me/6289607916051"><span class="mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn"></span>Join Us</a>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/popper/popper.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
