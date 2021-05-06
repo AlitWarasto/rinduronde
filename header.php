@@ -12,8 +12,12 @@
 	?>
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" /> </noscript>
-    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css" />
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css" />
+    <link rel="preload" as="style" href="<?php echo get_template_directory_uri(); ?>/assets/mobirise/css/mbr-additional.css" />
+    <link rel="icon" href="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/pav-icon.png" sizes="32x32" />
+    <link rel="icon" href="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/pav-icon.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/pav-icon.png" />
+    <meta name="msapplication-TileImage" content="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/pav-icon.png" />
+
   </head>
   <body>
     <section class="menu cid-s48OLK6784" once="menu" id="menu1-h">
